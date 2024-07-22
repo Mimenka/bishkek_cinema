@@ -2,4 +2,5 @@ venv
 uploads
 staticfiles
 DS_Store
+.DS_Store
 __pycache__
